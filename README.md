@@ -1,1 +1,1 @@
-# CanteenManageSystem-BC-202511
+# Intelligent Canteen System
